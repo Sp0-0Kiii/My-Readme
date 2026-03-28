@@ -1,6 +1,5 @@
 ## 👏 Hi, I'm J'aivin Hudson
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+##  I'm a new sophomore coming into UTSA to study cyber security with a major in Business Studies. I'm pretty new to the University College life as back a few months ago in high school, we went to a community college but majority of it was online. I don't currently work but I have volunteered before and enjoyed that time there as I like to help people in need. In my free time I usually just take walks, do needed chores, and mainly just workout to keep myself physically and mentally healthy.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
